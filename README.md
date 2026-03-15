@@ -120,10 +120,7 @@ src/
 npm run build   # Deploy dist/ to Vercel, Netlify, or GitHub Pages
 ```
 
-## 🎥 Demo
 
-🔗 Live Demo link goes here  
-📹 Demo video link goes here
 
 ---
 
