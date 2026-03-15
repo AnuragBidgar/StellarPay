@@ -4,6 +4,22 @@ A beginner-friendly decentralized payment application on the **Stellar Testnet**
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/connect.png" alt="Connect Wallet" width="45%" style="margin: 2%;"/>
+  <img src="screenshots/dashboard.png" alt="Dashboard" width="45%" style="margin: 2%;"/>
+</p>
+<p align="center">
+  <img src="screenshots/send.png" alt="Send XLM" width="45%" style="margin: 2%;"/>
+  <img src="screenshots/confirm.png" alt="Confirm Transaction" width="45%" style="margin: 2%;"/>
+</p>
+<p align="center">
+  <img src="screenshots/success.png" alt="Success" width="45%" style="margin: 2%;"/>
+</p>
+
+---
+
 ## ✨ Features
 
 | Feature | Details |
